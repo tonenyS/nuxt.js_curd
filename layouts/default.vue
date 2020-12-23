@@ -6,7 +6,7 @@
           elevation-0
           @click.stop="drawer = !drawer"
         ></v-app-bar-nav-icon>
-        <v-toolbar-title>CRUD</v-toolbar-title>
+        <v-toolbar-title>The Company</v-toolbar-title>
       </v-app-bar>
       <v-container><nuxt /></v-container>
     </v-main>
